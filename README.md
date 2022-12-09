@@ -1,4 +1,4 @@
-# Life expectancy and GDP: a relationship
+# Life Expectancy and GDP: a relationship
  
 Hi everyone! 
 
